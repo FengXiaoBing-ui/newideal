@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "试听预约",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "serch": "/components/serch",
+    "teacherlist": "/components/teacherlist",
+    "screen": "/components/screen"
+  }
+}

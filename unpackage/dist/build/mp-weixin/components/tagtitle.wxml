@@ -1,0 +1,1 @@
+<view class="wrap"><view class="Allactivities"><view class="Allactivities_left"><text>{{tagdata}}</text><text>Upcoming events</text></view><view data-event-opts="{{[['tap',[['Jump',['$0'],['link.path']]]]]}}" class="Allactivities_right" bindtap="__e">{{link.title}}</view></view></view>

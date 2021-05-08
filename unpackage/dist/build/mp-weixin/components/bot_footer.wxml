@@ -1,0 +1,1 @@
+<view class="bot_footer data-v-0deed679"><text class="data-v-0deed679">请如实填写相关信息，填写完毕后点击下方按钮进行活动预约，届时会有相关工作人员联系您。</text><button class="btn_subimt data-v-0deed679" type="default" data-event-opts="{{[['tap',[['sumbit',['$event']]]]]}}" bindtap="__e">{{''+title+''}}</button></view>

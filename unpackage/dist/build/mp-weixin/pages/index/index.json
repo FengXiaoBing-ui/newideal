@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "新理想教育",
+  "usingComponents": {
+    "jing-swiper": "/components/jing-swiper/jing-swiper",
+    "banner": "/components/banner",
+    "tagtitle": "/components/tagtitle",
+    "teacherlist": "/components/teacherlist",
+    "serch": "/components/serch"
+  }
+}

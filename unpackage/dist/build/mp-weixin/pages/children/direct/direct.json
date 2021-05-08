@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "直接预约",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/banner",
+    "myinfo": "/components/myinfo",
+    "botfooter": "/components/bot_footer"
+  }
+}

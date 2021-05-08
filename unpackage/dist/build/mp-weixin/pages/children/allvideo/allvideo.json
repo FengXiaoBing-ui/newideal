@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "精讲视频",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "serch": "/components/serch",
+    "screen": "/components/screen",
+    "teacherlist": "/components/teacherlist"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/appointment/appointment",
+    "pages/Activity/Activity",
+    "pages/database/database",
+    "pages/studentStyle/studentStyle",
+    "pages/children/allvideo/allvideo",
+    "pages/children/allsubject/allsubject",
+    "pages/orderdeatil/orderdeatil",
+    "pages/children/direct/direct",
+    "pages/children/activitydetail/activitydetail",
+    "pages/children/studentdetail/studentdetail",
+    "pages/children/videodetail/videodetail",
+    "pages/children/answer/answer",
+    "pages/children/activitydetail/answerdetail/answerdetail",
+    "pages/serch/serch"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#666666",
+    "selectedColor": "#6593B7",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/Activity/Activity",
+        "text": "活动预告",
+        "selectedIconPath": "static/img/hdyg_blue@3x.png",
+        "iconPath": "static/img/hdyg_gray@3x.png"
+      },
+      {
+        "pagePath": "pages/database/database",
+        "text": "资料库",
+        "selectedIconPath": "static/img/tab_zlk_blue.png",
+        "iconPath": "static/img/tab_zlk_gray.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "selectedIconPath": "static/img/tab_home_logo.png",
+        "iconPath": "./static/img/tab_home_logo.png"
+      },
+      {
+        "pagePath": "pages/appointment/appointment",
+        "text": "试听预约",
+        "selectedIconPath": "static/img/tab_styy_blue@.png",
+        "iconPath": "static/img/tab_styy_gray.png"
+      },
+      {
+        "pagePath": "pages/studentStyle/studentStyle",
+        "text": "学员风采",
+        "selectedIconPath": "static/img/tab_xyfc_blue.png",
+        "iconPath": "static/img/tab_xyfc_gray.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "tui-tabbar": "/components/tabbar"
+  }
+}

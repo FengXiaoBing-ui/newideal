@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "资料库",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "serch": "/components/serch",
+    "tagtitle": "/components/tagtitle",
+    "teacherlist": "/components/teacherlist"
+  }
+}

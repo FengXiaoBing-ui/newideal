@@ -1,0 +1,1 @@
+<view class="answerdetail data-v-1edb440a"><view class="header_title data-v-1edb440a"><text class="data-v-1edb440a">{{textdetail.title}}</text><text class="data-v-1edb440a">{{textdetail.createTime}}</text></view><rich-text nodes="{{textdetail.remark}}" class="data-v-1edb440a"></rich-text></view>

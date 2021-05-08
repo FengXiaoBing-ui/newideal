@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "真题题库",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "serch": "/components/serch",
+    "screen": "/components/screen",
+    "teacherlist": "/components/teacherlist"
+  }
+}

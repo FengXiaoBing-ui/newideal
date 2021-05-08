@@ -1,0 +1,179 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "新理想教育"
+			}
+		}
+		,{
+		    "path" : "pages/appointment/appointment",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "试听预约",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+		,{
+		    "path" : "pages/Activity/Activity",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "活动预告",
+		        "enablePullDownRefresh": false
+		    }
+		    
+		}
+	    ,{
+            "path" : "pages/database/database",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "资料库",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/studentStyle/studentStyle",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "学员风采",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/allvideo/allvideo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "精讲视频",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/allsubject/allsubject",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "真题题库",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/orderdeatil/orderdeatil",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "预约详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/direct/direct",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "直接预约",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/activitydetail/activitydetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "活动详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/studentdetail/studentdetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "学员详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/videodetail/videodetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "视频详情",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/answer/answer",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "一题多解",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/children/activitydetail/answerdetail/answerdetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "一题多解",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/serch/serch",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "搜索",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+			"color": "#666666",
+			"selectedColor": "#6593B7",
+			"backgroundColor": "#FFFFFF",
+			"list": [
+				{
+					"pagePath": "pages/Activity/Activity",
+					"text": "活动预告",
+					"selectedIconPath":"static/img/hdyg_blue@3x.png",
+					"iconPath":"static/img/hdyg_gray@3x.png"
+				},
+				{
+					"pagePath": "pages/database/database",
+					"text": "资料库",
+					"selectedIconPath":"static/img/tab_zlk_blue.png",
+					"iconPath":"static/img/tab_zlk_gray.png"
+				},
+				{
+					"pagePath": "pages/index/index",
+					"text": "首页",
+					"selectedIconPath":"static/img/tab_home_logo.png",
+					"iconPath":"./static/img/tab_home_logo.png"
+				},
+				{
+					"pagePath": "pages/appointment/appointment",
+					"text": "试听预约",
+					"selectedIconPath":"static/img/tab_styy_blue@.png",
+					"iconPath":"static/img/tab_styy_gray.png"
+				},
+				{
+					"pagePath": "pages/studentStyle/studentStyle",
+					"text": "学员风采",
+					"selectedIconPath":"static/img/tab_xyfc_blue.png",
+					"iconPath":"static/img/tab_xyfc_gray.png"
+				}
+			]
+		}
+}
